@@ -15,7 +15,7 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * Test | Hello 
 * 
 * 
-* 
+* YueLi | Hello
 
 ## This is a document section 
 * Sophia | This is an introductory sentence. When I write on a piece of the document I'll add things to this bullet point. This means that I need to clearly communicate to my colaborators when they should...
