@@ -7,12 +7,14 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 > name | write your favourite way to say hello, be as creative as possible! 👋
 * Sophia | Hello
 * Ross | Hi
-* Aditi
+* Aditi | alo
 * Rebecca | hi
 * Everlyn | penguin
 * Priya, Hello
 * Eirini | geia! (Greek)
-* Sophia 2 | Hello 🐧
+* Test | Hello 
+* Nouran :)
+* Sophia 2 | Hello world! 
 * 
 * 
 * 
