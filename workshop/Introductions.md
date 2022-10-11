@@ -12,8 +12,18 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * Everlyn | penguin
 * Priya, Hello
 * Eirini | geia! (Greek)
+
 * Test | Hello 
 * Russ | hi
+
+* Sophia 2 | Hello 🐧
+* 
+* 
+* 
+* 
+* 
+* 
+
 * 
 * 
 
