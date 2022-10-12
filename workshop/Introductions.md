@@ -12,6 +12,7 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * Everlyn | penguin
 * Priya, Hello
 * Eirini | geia! (Greek)
+* Zeena | Hello hello! 
 * Russ | hi
 * Test | Hello 
 * Lucy | Hello :)
@@ -26,13 +27,12 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * Ankita| Heyy
 * TK / ola. 
 * Nouran :)
-* Sophia 2 | Hello world!  
+* Sophia 3 | Hello world!  
 * Cari | Hello!
 * YueLi | Hello
 * 
 * 
  
-
 
 
 ## This is a document section 
