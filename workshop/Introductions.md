@@ -13,6 +13,8 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * Priya, Hello
 * Eirini | geia! (Greek)
 * Test | Hello 
+* Abdulrahman Alsayed  | Hi!
+* Sophia 2 | Hello 🐧
 * Ezra | Hey Hey 👋
 * Sophia 2 | Hello 🐧 
 * Pirta | Moikka!
@@ -29,6 +31,7 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * 
 * 
  
+
 
 ## This is a document section 
 * Sophia | This is an introductory sentence. When I write on a piece of the document I'll add things to this bullet point. This means that I need to clearly communicate to my colaborators when they should...
