@@ -12,6 +12,8 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * Everlyn | penguin
 * Priya, Hello
 * Eirini | geia! (Greek)
+* Russ | hi
+* Sophia 2 | Hello 🐧
 * Test | Hello 
 * Abdulrahman Alsayed  | Hi!
 * Sophia 2 | Hello 🐧
@@ -31,6 +33,7 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * 
 * 
  
+
 
 
 ## This is a document section 
