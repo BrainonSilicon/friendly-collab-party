@@ -13,12 +13,11 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * Priya, Hello
 * Eirini | geia! (Greek)
 * Russ | hi
-* Sophia 2 | Hello 🐧
 * Test | Hello 
+* Lucy | Hello :)
 * Abdulrahman Alsayed  | Hi!
 * Sophia 2 | Hello 🐧
 * Ezra | Hey Hey 👋
-* Sophia 2 | Hello 🐧 
 * Pirta | Moikka!
 * Will | Hiya
 * ola tng
