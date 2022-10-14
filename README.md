@@ -1,7 +1,5 @@
-<!-- small change -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3835657.svg)](https://doi.org/10.5281/zenodo.3835657)
-
-# Developing Collaborative Documents
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7181240.svg)](https://doi.org/10.5281/zenodo.7181240)
+# Effective Collaboration using GitHub
 
 **This workshop was first run in 2021 using this [presentation](https://docs.google.com/presentation/d/1r4_bFMSKVKzWJ-5kJr9iwplpTrbCWLxpviYGWOXJIhk/edit#slide=id.ge33bccbef9_0_18) and has been revised with new material for 2022. Please find your specific workshop from the list below which will link directly to the slides that were used in your session.**
 
