@@ -15,6 +15,7 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * Zeena | Hello hello! 
 * Russ | hi
 * Test | Hello 
+* Lucy | 🦇
 * Lucy | Hello :)
 * Abdulrahman Alsayed  | Hi!
 * Sophia 2 | Hello 🐧
@@ -33,6 +34,7 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 * 
 * 
  
+
 
 
 ## This is a document section 
